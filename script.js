@@ -77,7 +77,7 @@ async function convertEmojiData() {
       const keywords = wordsMap.get(unified);
       const name = toCapitalCase(emojiEntry.name);
       if (keywords) {
-        return { ...emojiEntry, name, keywords };
+        return { ...emojiEntry, name, keywords: keywords.split(' ') };
       }
       return { ...emojiEntry, name };
     });
