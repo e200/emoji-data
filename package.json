@@ -1,0 +1,13 @@
+{
+  "name": "emoji-data",
+  "version": "1.0.0",
+  "description": "<span class=\"badge-npmversion\"><a href=\"https://npmjs.org/package/emoji-datasource\" title=\"View this project on NPM\"><img src=\"https://img.shields.io/npm/v/emoji-datasource.svg\" alt=\"NPM version\" /></a></span> <span class=\"badge-npmdownloads\"><a href=\"https://npmjs.org/package/emoji-datasource\" title=\"View this project on NPM\"><img src=\"https://img.shields.io/npm/dm/emoji-datasource.svg\" alt=\"NPM downloads\" /></a></span> [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fiamcal%2Femoji-data.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fiamcal%2Femoji-data?ref=badge_shield)",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node script.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
+}
